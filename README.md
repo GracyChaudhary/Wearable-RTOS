@@ -64,8 +64,8 @@ This project demonstrates a wearable heart rate sensor system implemented on an 
 ---
 
 ## Sample Output
-## 📟 Sample Output
 
+```plaintext
 Wearable system online!
 [HR Reader] Pulse: 87 BPM
 [HR Smoother] Adjusted Pulse: 85 BPM
